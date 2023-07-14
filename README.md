@@ -1,7 +1,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tegnoorg&show_icons=true&theme=tokyonight&rank_icon=github" alt="Teg's GitHub Stats" />
 <br>
 <ul align="left">
-<li>🔭 I’m currently working on a Tesla app for Apple Watch, providing seamless control and interaction with your Tesla vehicle directly from your wrist.</li>
+<li>🔭 I’m currently working on a Tesla app for Apple Watch, providing seamless control and interaction with your vehicle directly from your wrist.</li>
 <li>🌱 I’m currently learning Swift, Haskell, Rust and TypeScript.</li>
 <li>💬 Ask me about Java, C++, JavaScript and Python.</li>
 <li>⛳ My hobbies are coding 💻, music 🎵, gaming 🎮 movies 🍿 and gym ❚█══█❚ </b>
