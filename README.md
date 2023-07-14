@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<!--
+
 **Tegnoorg/Tegnoorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashame&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" height="150%"/>
