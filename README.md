@@ -11,3 +11,4 @@
 <p align="left">
 Full-stack developer and soon-to-be Computing Science graduate from Simon Fraser University. Passionate about creating innovative solutions and leveraging technology to solve real-world problems. Proficient in a range of programming languages and frameworks. Excited to contribute to open-source projects and collaborate with the developer community. Let's build something amazing together!
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegnoorg)](https://github.com/Tegnoorg/AnImEhBot)
