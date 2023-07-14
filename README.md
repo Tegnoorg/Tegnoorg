@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tegnoorg&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" height="150%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tegnoorg&show_icons=github&theme=radical" alt="Teg's GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tegnoorg\&rank_icon=github" alt="Teg's GitHub Stats" />
 <br>
 <ul align="left">
 <li>- 🔭 I’m currently working on a Tesla app for Apple Watch, providing seamless control and interaction with your Tesla vehicle directly from your wrist.</li>
