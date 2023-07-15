@@ -21,9 +21,15 @@
 <p align="center">
   <a href="https://www.instagram.com/tegnoorgill/"><img src="https://img.shields.io/badge/Instagram-%40tegnoorgill-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:tegnoor.gill@gmail.com"><img src="https://img.shields.io/badge/Email-tegnoor.gill%40gmail.com-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Discord-_-teg-%237289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
 </p>
 
 <p align="center">
   <a href="https://github.com/Tegnoorg/AnImEhBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tegnoorg&repo=AnImEhBot&theme=tokyonight" alt="AnImEhBot Repository"></a>
+  <a href="https://github.com/thundershock888/Cmpt276"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thundershock888&repo=Cmpt276&theme=tokyonight" alt="Cmpt276 Repository"></a>
+  <a href="https://github.com/Tegnoorg/LoLStats-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tegnoorg&repo=LoLStats-Bot&theme=tokyonight" alt="LoLStats-Bot Repository"></a>
+  <a href="https://github.com/Tegnoorg/API-Doc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tegnoorg&repo=API-Doc&theme=tokyonight" alt="API-Doc Repository"></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Tegnoorg/Tegnoorg/raw/master/teg-activity.png" alt="Teg Activity Chart">
 </p>
