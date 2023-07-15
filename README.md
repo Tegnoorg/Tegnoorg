@@ -14,16 +14,16 @@
 <ul align="left">
   <li>🔭 I’m currently working on a Tesla app for Apple Watch, providing seamless control and interaction with your Tesla vehicle directly from your wrist.</li>
   <li>🌱 I’m currently learning Swift, Haskell, Rust, and TypeScript.</li>
-  <li>💬 Ask me about Java, C++, JavaScript, and Python.</li>
+  <li>💬 Ask me about Java, C++, and Python.</li>
   <li>⛳ My hobbies are coding 💻, music 🎵, gaming 🎮, and bad movies 🍿.</li>
 </ul>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tegnoorg&theme=tokyonight&locale=en&show_icons=true" alt="Teg" />
+  <a href="https://www.instagram.com/tegnoorgill/"><img src="https://img.shields.io/badge/Instagram-%40tegnoorgill-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:tegnoor.gill@gmail.com"><img src="https://img.shields.io/badge/Email-tegnoor.gill%40gmail.com-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Discord-_-teg-%237289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LaTeX-%20%5C(%5Cdpi%7B200%7D%5C)%20-blueviolet" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Python-%20%5C(%5Csqrt%7B2%7D%5C)%20-green" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-%20%5C(%5Csum_%7Bi%3D1%7D%5Eni%5C)%20-yellow" alt="JavaScript">
+  <a href="https://github.com/Tegnoorg/AnImEhBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tegnoorg&repo=AnImEhBot&theme=tokyonight" alt="AnImEhBot Repository"></a>
 </p>
