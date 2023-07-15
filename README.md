@@ -1,17 +1,23 @@
 <h1 align="center">Hi there, I'm Tegnoor Gill, but you can call me Teg! 👋</h1>
 
-
-<h3>Current Projects</h3>
-<ul>
+<p align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tegnoorg&show_icons=true&theme=tokyonight&rank_icon=github" alt="Teg's GitHub Stats" />
+</p>
+<h3>About Me</h3>
+<ul align="left">
   <li>🚀 Working on a Tesla app for Apple Watch, providing seamless control and interaction with your Tesla vehicle directly from your wrist</li>
+  <li>🔭 I’m currently working on a Tesla app for Apple Watch, providing seamless control and interaction with your Tesla vehicle directly from your wrist.</li>
+  <li>🌱 I’m currently learning Swift, Haskell, Rust, and TypeScript.</li>
+  <li>💬 Ask me about Java, C++, and Python.</li>
+  <li>⛳ My hobbies are coding 💻, music 🎵, gaming 🎮, and bad movies 🍿.</li>
 </ul>
 
 
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegnoorg&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Most Used Languages">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegnoorg&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Most Used Languages">
 </p>
 
-<h3>About Me</h3>
+<h3>Bio</h3>
 <p>
   I am a student at Simon Fraser University, pursuing a Bachelor's of Science in Computing Science. Based in Vancouver, Canada, I am passionate about becoming a future full-stack developer. I am dedicated to creating innovative solutions and leveraging technology to solve real-world problems. With proficiency in a range of programming languages and frameworks, I have experience in web development, database management, and full-stack web development. I am always eager to learn new technologies and stay updated with industry trends.
 </p>
