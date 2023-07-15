@@ -6,7 +6,6 @@
 <h3>About Me</h3>
 <ul align="left">
   <li>🚀 Working on a Tesla app for Apple Watch, providing seamless control and interaction with your Tesla vehicle directly from your wrist</li>
-  <li>🔭 I’m currently working on a Tesla app for Apple Watch, providing seamless control and interaction with your Tesla vehicle directly from your wrist.</li>
   <li>🌱 I’m currently learning Swift, Haskell, Rust, and TypeScript.</li>
   <li>💬 Ask me about Java, C++, and Python.</li>
   <li>⛳ My hobbies are coding 💻, music 🎵, gaming 🎮, and bad movies 🍿.</li>
