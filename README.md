@@ -12,6 +12,8 @@ Full-stack developer and soon-to-be Computing Science graduate from Simon Fraser
 <li>💬 Ask me about Java, C++, JavaScript and Python.</li>
 <li>⛳ My hobbies are coding 💻, music 🎵, gaming 🎮 and bad movies 🍿</b>
 </ul>
-<img align="middle" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tegnoorg&theme=tokyonight&locale=en&show_icons=true" alt="Teg" />
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tegnoorg&theme=tokyonight&locale=en&show_icons=true" alt="Teg" />
+</div>
 
 
