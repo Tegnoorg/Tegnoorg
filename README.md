@@ -8,18 +8,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tegnoorg&theme=tokyonight&locale=en&show_icons=true" alt="Teg Activity Chart">
 </p>
 
-<p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegnoorg&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Most Used Languages">
-</p>
-
 <h3>About Me</h3>
-<ul>
-  <li>🎓 Full-stack developer and soon-to-be Computing Science graduate from Simon Fraser University</li>
-  <li>💡 Passionate about creating innovative solutions and leveraging technology to solve real-world problems</li>
-  <li>💻 Proficient in a range of programming languages and frameworks</li>
-  <li>🌐 Experienced in web development, database management, and full-stack web development</li>
-  <li>🌱 Always eager to learn new technologies and stay updated with industry trends</li>
-</ul>
+<p>
+  Full-stack developer and soon-to-be Computing Science graduate from Simon Fraser University. Passionate about creating innovative solutions and leveraging technology to solve real-world problems. Proficient in a range of programming languages and frameworks. Experienced in web development, database management, and full-stack web development. Always eager to learn new technologies and stay updated with industry trends.
+</p>
 
 <h3>Current Projects</h3>
 <ul>
