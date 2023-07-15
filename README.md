@@ -38,6 +38,7 @@
 <p align="center">
   <a href="https://www.instagram.com/tegnoorgill/"><img src="https://img.shields.io/badge/Instagram-%40tegnoorgill-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:tegnoor.gill@gmail.com"><img src="https://img.shields.io/badge/Email-tegnoor.gill%40gmail.com-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/tegnoor-gill/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <h3>Highlighted Repositories</h3>
