@@ -8,6 +8,9 @@
 <p>
   I am a student at Simon Fraser University, pursuing a Bachelor's of Science in Computing Science. Based in Vancouver, Canada, I am passionate about becoming a future full-stack developer. I am dedicated to creating innovative solutions and leveraging technology to solve real-world problems. With proficiency in a range of programming languages and frameworks, I have experience in web development, database management, and full-stack web development. I am always eager to learn new technologies and stay updated with industry trends.
 </p>
+<p align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tegnoorg&show_icons=true&theme=tokyonight&rank_icon=github" alt="Teg's GitHub Stats" />
+</p>
 
 <h3>Current Projects</h3>
 <ul>
@@ -42,8 +45,4 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tegnoorg&theme=tokyonight&locale=en&show_icons=true" alt="Teg Activity Chart">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tegnoorg&show_icons=true&theme=tokyonight&rank_icon=github" alt="Teg's GitHub Stats" />
 </p>
