@@ -6,6 +6,7 @@
 
 <p align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegnoorg&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Most Used Languages">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tegnoorg&show_icons=true&theme=tokyonight&rank_icon=github" alt="Teg's GitHub Stats" />
 </p>
 
 <h3>About Me</h3>
