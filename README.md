@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Tegnoor Gill 👋</h1>
+<h1 align="center">Hi there, I'm Tegnoor Gill, but you can call me Teg! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Tegnoorg/Tegnoorg/raw/master/teg-activity.png" alt="Teg Activity Chart">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tegnoorg&theme=tokyonight&locale=en&show_icons=true" alt="Teg Activity Char" />
 </p>
 
 <p align="center">
