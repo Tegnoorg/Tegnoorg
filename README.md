@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegnoorg&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Most Used Languages">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegnoorg&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="Most Used Languages">
 </p>
 
 <h3>Bio</h3>
