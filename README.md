@@ -1,19 +1,29 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegnoorg&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="Most Used Languages" height="200%"/>
+<p align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegnoorg&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="Most Used Languages" height="200%"/>
+</p>
+
 <h3 align="left">About Me</h3>
 <p align="left">
-Full-stack developer and soon-to-be Computing Science graduate from Simon Fraser University. Passionate about creating innovative solutions and leveraging technology to solve real-world problems. Proficient in a range of programming languages and frameworks. Excited to contribute to open-source projects and collaborate with the developer community. Let's build something amazing together!
+  Full-stack developer and soon-to-be Computing Science graduate from Simon Fraser University. Passionate about creating innovative solutions and leveraging technology to solve real-world problems. Proficient in a range of programming languages and frameworks. Excited to contribute to open-source projects and collaborate with the developer community. Let's build something amazing together!
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tegnoorg&show_icons=true&theme=tokyonight&rank_icon=github" alt="Teg's GitHub Stats" />
+
 <br>
+
 <ul align="left">
-<li>🔭 I’m currently working on a Tesla app for Apple Watch, providing seamless control and interaction with your Tesla vehicle directly from your wrist.</li>
-<li>🌱 I’m currently learning Swift, Haskell, Rust and TypeScript.</li>
-<li>💬 Ask me about Java, C++, JavaScript and Python.</li>
-<li>⛳ My hobbies are coding 💻, music 🎵, gaming 🎮 and bad movies 🍿</b>
+  <li>🔭 I’m currently working on a Tesla app for Apple Watch, providing seamless control and interaction with your Tesla vehicle directly from your wrist.</li>
+  <li>🌱 I’m currently learning Swift, Haskell, Rust, and TypeScript.</li>
+  <li>💬 Ask me about Java, C++, JavaScript, and Python.</li>
+  <li>⛳ My hobbies are coding 💻, music 🎵, gaming 🎮, and bad movies 🍿.</li>
 </ul>
-<center>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tegnoorg&theme=tokyonight&locale=en&show_icons=true" alt="Teg" />
-</center>
+</p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/LaTeX-%20%5C(%5Cdpi%7B200%7D%5C)%20-blueviolet" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Python-%20%5C(%5Csqrt%7B2%7D%5C)%20-green" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-%20%5C(%5Csum_%7Bi%3D1%7D%5Eni%5C)%20-yellow" alt="JavaScript">
+</p>
