@@ -5,13 +5,9 @@
 </p>
 
 <h3>About Me</h3>
-<ul>
-  <li>🎓 Full-stack developer and soon-to-be Computing Science graduate from Simon Fraser University</li>
-  <li>💡 Passionate about creating innovative solutions and leveraging technology to solve real-world problems</li>
-  <li>💻 Proficient in a range of programming languages and frameworks</li>
-  <li>🌐 Experienced in web development, database management, and full-stack web development</li>
-  <li>🌱 Always eager to learn new technologies and stay updated with industry trends</li>
-</ul>
+<p>
+  I am a student at Simon Fraser University, pursuing a Bachelor's of Science in Computing Science. Based in Vancouver, Canada, I am passionate about becoming a future full-stack developer. I am dedicated to creating innovative solutions and leveraging technology to solve real-world problems. With proficiency in a range of programming languages and frameworks, I have experience in web development, database management, and full-stack web development. I am always eager to learn new technologies and stay updated with industry trends.
+</p>
 
 <h3>Current Projects</h3>
 <ul>
